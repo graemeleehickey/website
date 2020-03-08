@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>McCollum CN | Graeme L. Hickey</title>
+    <link>www.glhickey.com/authors/mccollum-cn/</link>
+      <atom:link href="www.glhickey.com/authors/mccollum-cn/index.xml" rel="self" type="application/rss+xml" />
+    <description>McCollum CN</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>McCollum CN</title>
+      <link>www.glhickey.com/authors/mccollum-cn/</link>
+    </image>
+    
+    <item>
+      <title>Cardiopulmonary exercise testing and survival following elective abdominal aortic aneurysm repair</title>
+      <link>www.glhickey.com/publication/2015-vascular/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2015-vascular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of three contemporary risk scores for mortality following elective abdominal aortic aneurysm (AAA) repair</title>
+      <link>www.glhickey.com/publication/2014-aaa/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2014-aaa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National risk prediction model for elective abdominal aortic aneurysm repair</title>
+      <link>www.glhickey.com/publication/2013-bar-score/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2013-bar-score/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The development of a national risk prediction model for elective abdominal aortic aneurysm (AAA) repair</title>
+      <link>www.glhickey.com/publication/2013-absract-bar/</link>
+      <pubDate>Tue, 12 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2013-absract-bar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preoperative cardiopulmonary exercise testing and risk of early mortality following abdominal aortic aneurysm repair</title>
+      <link>www.glhickey.com/publication/2012-vascular/</link>
+      <pubDate>Fri, 21 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2012-vascular/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

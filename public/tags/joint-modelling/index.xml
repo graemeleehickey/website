@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joint Modelling | Graeme L. Hickey</title>
+    <link>www.glhickey.com/tags/joint-modelling/</link>
+      <atom:link href="www.glhickey.com/tags/joint-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joint Modelling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Joint Modelling</title>
+      <link>www.glhickey.com/tags/joint-modelling/</link>
+    </image>
+    
+    <item>
+      <title>joineR</title>
+      <link>www.glhickey.com/project/joiner/joiner/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/project/joiner/joiner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>joineRML</title>
+      <link>www.glhickey.com/project/joinerml/joinerml/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/project/joinerml/joinerml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

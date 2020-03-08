@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Graeme L. Hickey</title>
+    <link>www.glhickey.com/publication_types/6/</link>
+      <atom:link href="www.glhickey.com/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Fri, 31 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>6</title>
+      <link>www.glhickey.com/publication_types/6/</link>
+    </image>
+    
+    <item>
+      <title>Hospital Online Uncertainty and Stability Estimation</title>
+      <link>www.glhickey.com/publication/2015-house/</link>
+      <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2015-house/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tipping points in cardiac surgical performance: the application of dynamic risk prediction modelling</title>
+      <link>www.glhickey.com/publication/2015-tipping-points/</link>
+      <pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2015-tipping-points/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical aspects of risk characterization in ecotoxicology</title>
+      <link>www.glhickey.com/publication/2013-sapur/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2013-sapur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ludman PF | Graeme L. Hickey</title>
+    <link>www.glhickey.com/authors/ludman-pf/</link>
+      <atom:link href="www.glhickey.com/authors/ludman-pf/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ludman PF</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Wed, 01 May 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ludman PF</title>
+      <link>www.glhickey.com/authors/ludman-pf/</link>
+    </image>
+    
+    <item>
+      <title>An all-embracing analysis combining the UK TAVI and cardiac surgical registries (in NICOR) to describe the activity, trend and outcomes in 36 026 patients who underwent aortic valve intervention in the 5 years from 2006 to 2010</title>
+      <link>www.glhickey.com/publication/2013-absract-tavi/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2013-absract-tavi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

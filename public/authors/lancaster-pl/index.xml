@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lancaster PL | Graeme L. Hickey</title>
+    <link>www.glhickey.com/authors/lancaster-pl/</link>
+      <atom:link href="www.glhickey.com/authors/lancaster-pl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lancaster PL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Fri, 21 Sep 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Lancaster PL</title>
+      <link>www.glhickey.com/authors/lancaster-pl/</link>
+    </image>
+    
+    <item>
+      <title>Preoperative cardiopulmonary exercise testing and risk of early mortality following abdominal aortic aneurysm repair</title>
+      <link>www.glhickey.com/publication/2012-vascular/</link>
+      <pubDate>Fri, 21 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2012-vascular/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Walshaw MJ | Graeme L. Hickey</title>
+    <link>www.glhickey.com/authors/walshaw-mj/</link>
+      <atom:link href="www.glhickey.com/authors/walshaw-mj/index.xml" rel="self" type="application/rss+xml" />
+    <description>Walshaw MJ</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Walshaw MJ</title>
+      <link>www.glhickey.com/authors/walshaw-mj/</link>
+    </image>
+    
+    <item>
+      <title>ePS06.1 Stenotrophomonas maltophilia is increased in patients with cystic fibrosis-related diabetes and displays enhanced growth under physiologically-relevant levels of glucose</title>
+      <link>www.glhickey.com/publication/2015-absract-cf/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2015-absract-cf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

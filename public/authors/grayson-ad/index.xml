@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grayson AD | Graeme L. Hickey</title>
+    <link>www.glhickey.com/authors/grayson-ad/</link>
+      <atom:link href="www.glhickey.com/authors/grayson-ad/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grayson AD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Grayson AD</title>
+      <link>www.glhickey.com/authors/grayson-ad/</link>
+    </image>
+    
+    <item>
+      <title>Development and validation of elective and nonelective risk prediction models for in-hospital mortality in proximal aortic surgery using the National Institute for Cardiovascular Outcomes Research (NICOR) database</title>
+      <link>www.glhickey.com/publication/2016-aortic/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2016-aortic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regarding: Validation of three models predicting in-hospital death in patients with an abdominal aortic aneurysm eligible for both endovascular and open repair</title>
+      <link>www.glhickey.com/publication/2013-letter-validation/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2013-letter-validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National risk prediction model for elective abdominal aortic aneurysm repair</title>
+      <link>www.glhickey.com/publication/2013-bar-score/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2013-bar-score/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The development of a national risk prediction model for elective abdominal aortic aneurysm (AAA) repair</title>
+      <link>www.glhickey.com/publication/2013-absract-bar/</link>
+      <pubDate>Tue, 12 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2013-absract-bar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

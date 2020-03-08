@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cooper G | Graeme L. Hickey</title>
+    <link>www.glhickey.com/authors/cooper-g/</link>
+      <atom:link href="www.glhickey.com/authors/cooper-g/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cooper G</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Thu, 26 Sep 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Cooper G</title>
+      <link>www.glhickey.com/authors/cooper-g/</link>
+    </image>
+    
+    <item>
+      <title>A technical review of the United Kingdom National Adult Cardiac Surgery Governance analysis 2008-11</title>
+      <link>www.glhickey.com/publication/2013-technical-review/</link>
+      <pubDate>Thu, 26 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2013-technical-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating transparency in UK adult cardiac surgery data</title>
+      <link>www.glhickey.com/publication/2013-transparency/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2013-transparency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance of the EuroSCORE models in emergency cardiac surgery</title>
+      <link>www.glhickey.com/publication/2013-emergency/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2013-emergency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publishing cardiac surgery mortality rates: lessons for other specialties</title>
+      <link>www.glhickey.com/publication/2013-publish/</link>
+      <pubDate>Thu, 14 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2013-publish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UK cardiac surgery is safe no matter what day of the week; an analysis of the SCTS database</title>
+      <link>www.glhickey.com/publication/2012-letter-bmj/</link>
+      <pubDate>Tue, 27 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2012-letter-bmj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

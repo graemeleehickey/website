@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Graeme L. Hickey</title>
+    <link>www.glhickey.com/publication_types/4/</link>
+      <atom:link href="www.glhickey.com/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Sat, 01 Jun 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>4</title>
+      <link>www.glhickey.com/publication_types/4/</link>
+    </image>
+    
+    <item>
+      <title>UK heart surgery: What patients can expect from their surgeons</title>
+      <link>www.glhickey.com/publication/2013-report/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2013-report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National adult cardiac surgery audit report. Annual report: April 2010 – March 2011</title>
+      <link>www.glhickey.com/publication/2012-report/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2012-report/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

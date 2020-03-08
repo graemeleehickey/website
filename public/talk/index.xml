@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Graeme L. Hickey</title>
+    <link>www.glhickey.com/talk/</link>
+      <atom:link href="www.glhickey.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Wed, 25 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>www.glhickey.com/talk/</link>
+    </image>
+    
+    <item>
+      <title>Joint modelling of longitudinal and time-to-event data: recent extensions</title>
+      <link>www.glhickey.com/talk/2018_workshop/</link>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2018_workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk: a statistician&#39;s viewpoint</title>
+      <link>www.glhickey.com/talk/2018_scts/</link>
+      <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2018_scts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint models of time-to-event and multivariate longitudinal data</title>
+      <link>www.glhickey.com/talk/2018_erasmus/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2018_erasmus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of joint models for longitudinal and competing risks data, with application to an epilepsy drug randomized controlled trial</title>
+      <link>www.glhickey.com/talk/2018_liverpool/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2018_liverpool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic survival prediction for multivariate joint models using the R package joineRML</title>
+      <link>www.glhickey.com/talk/2017_cms/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2017_cms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint modelling of multivariate longitudinal and time-to-event data</title>
+      <link>www.glhickey.com/talk/2017_durham/</link>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2017_durham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What you need to know about statistics to read a journal article</title>
+      <link>www.glhickey.com/talk/2017_eacts-fundamentals/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2017_eacts-fundamentals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Checking model assumptions with regression diagnostics</title>
+      <link>www.glhickey.com/talk/2017_eacts-4/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2017_eacts-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performing repeated measure analysis</title>
+      <link>www.glhickey.com/talk/2017_eacts-3/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2017_eacts-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample size determination: why, when, how?</title>
+      <link>www.glhickey.com/talk/2017_eacts-2/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2017_eacts-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To inform or confuse with Tables and Figures: the EJCTS experience</title>
+      <link>www.glhickey.com/talk/2017_eacts-1/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2017_eacts-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint modelling of longitudinal and time-to-event data with R</title>
+      <link>www.glhickey.com/talk/2017_sam-workshop/</link>
+      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2017_sam-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint modelling of multivariate longitudinal and time-to-event data</title>
+      <link>www.glhickey.com/talk/2017_sam/</link>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2017_sam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint modelling of multivariate longitudinal and time-to-event data</title>
+      <link>www.glhickey.com/talk/2016_cms/</link>
+      <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2016_cms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpreting randomized trial data: different ways of reporting differences</title>
+      <link>www.glhickey.com/talk/2016_eacts-4/</link>
+      <pubDate>Tue, 04 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2016_eacts-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making forest and funnel plots</title>
+      <link>www.glhickey.com/talk/2016_eacts-3/</link>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2016_eacts-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reporting your results for publication according to guidelines?</title>
+      <link>www.glhickey.com/talk/2016_eacts-2/</link>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2016_eacts-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical methods: CUSUM, VLAD, risk adjustment, funnel plot. Which one to choose?</title>
+      <link>www.glhickey.com/talk/2016_eacts-1/</link>
+      <pubDate>Sun, 02 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2016_eacts-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of different joint models for longitudinal and competing risks data: with application to an epilepsy drug randomised control trial</title>
+      <link>www.glhickey.com/talk/2016_rss/</link>
+      <pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2016_rss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post-market surveillance of prosthetic aortic valves using registry data and record linkage</title>
+      <link>www.glhickey.com/talk/2015_mhra/</link>
+      <pubDate>Thu, 26 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2015_mhra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical data and reporting guidelines: Important to get your paper published</title>
+      <link>www.glhickey.com/talk/2015_eacts/</link>
+      <pubDate>Tue, 06 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2015_eacts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The UKHVR web app</title>
+      <link>www.glhickey.com/talk/2013_bhvs/</link>
+      <pubDate>Thu, 03 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2013_bhvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unlocking a national adult cardiac surgery audit registry with R</title>
+      <link>www.glhickey.com/talk/2013_user/</link>
+      <pubDate>Thu, 11 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2013_user/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic clinical prediction models for cardiac surgery</title>
+      <link>www.glhickey.com/talk/2013_scts-2/</link>
+      <pubDate>Mon, 18 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2013_scts-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring performance of cardiac surgery: the SCTS governance programme</title>
+      <link>www.glhickey.com/talk/2013_scts-1/</link>
+      <pubDate>Mon, 18 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2013_scts-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk stratification: the UK cardiothoracic experience</title>
+      <link>www.glhickey.com/talk/2012_proms/</link>
+      <pubDate>Tue, 27 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2012_proms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring the performance of cardiac surgeons</title>
+      <link>www.glhickey.com/talk/2012_tipping/</link>
+      <pubDate>Wed, 12 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2012_tipping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cleaning and analysis of the SCTS database</title>
+      <link>www.glhickey.com/talk/2012_scts/</link>
+      <pubDate>Wed, 18 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2012_scts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extending the SSD concept to explore some foundational model limitations: a Bayesian hierarchical approach</title>
+      <link>www.glhickey.com/talk/2011_setac/</link>
+      <pubDate>Tue, 17 May 2011 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2011_setac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Species non-exchangeability for ecotoxicological risk assessment</title>
+      <link>www.glhickey.com/talk/2009_setac/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2009_setac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating hazardous concentrations for environmental risk assessment with ecotoxicological effect data</title>
+      <link>www.glhickey.com/talk/2008_rss/</link>
+      <pubDate>Tue, 09 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2008_rss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment factors for non-exchangeable species</title>
+      <link>www.glhickey.com/talk/2008_ibc/</link>
+      <pubDate>Thu, 17 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/talk/2008_ibc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

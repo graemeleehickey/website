@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bennett R | Graeme L. Hickey</title>
+    <link>www.glhickey.com/authors/bennett-r/</link>
+      <atom:link href="www.glhickey.com/authors/bennett-r/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bennett R</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Bennett R</title>
+      <link>www.glhickey.com/authors/bennett-r/</link>
+    </image>
+    
+    <item>
+      <title>Quantitative proteomics of cerebrospinal fluid in paediatric pneumococcal meningitis</title>
+      <link>www.glhickey.com/publication/2017-meningitis/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2017-meningitis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

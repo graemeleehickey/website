@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Roxburgh | Graeme L. Hickey</title>
+    <link>www.glhickey.com/authors/j-roxburgh/</link>
+      <atom:link href="www.glhickey.com/authors/j-roxburgh/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Roxburgh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>J Roxburgh</title>
+      <link>www.glhickey.com/authors/j-roxburgh/</link>
+    </image>
+    
+    <item>
+      <title>Surgeon length of service and risk-adjusted outcomes: linked observational analysis of the UK National Adult Cardiac Surgery Audit Registry and General Medical Council Register</title>
+      <link>www.glhickey.com/publication/2014-gmc/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2014-gmc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blackstone EH | Graeme L. Hickey</title>
+    <link>www.glhickey.com/authors/blackstone-eh/</link>
+      <atom:link href="www.glhickey.com/authors/blackstone-eh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blackstone EH</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Tue, 12 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Blackstone EH</title>
+      <link>www.glhickey.com/authors/blackstone-eh/</link>
+    </image>
+    
+    <item>
+      <title>External model validation of binary clinical risk prediction models in cardiovascular and thoracic surgery</title>
+      <link>www.glhickey.com/publication/2016-cpm-validation/</link>
+      <pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2016-cpm-validation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

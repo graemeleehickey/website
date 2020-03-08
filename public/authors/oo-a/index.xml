@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oo A | Graeme L. Hickey</title>
+    <link>www.glhickey.com/authors/oo-a/</link>
+      <atom:link href="www.glhickey.com/authors/oo-a/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oo A</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Oo A</title>
+      <link>www.glhickey.com/authors/oo-a/</link>
+    </image>
+    
+    <item>
+      <title>A comparison of survival between on-pump and off-pump left internal mammary artery bypass graft surgery for isolated left anterior descending coronary artery disease: an analysis of the UK National Adult Cardiac Surgery Audit Registry</title>
+      <link>www.glhickey.com/publication/2016-lad/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2016-lad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O156 A UK perspective of volume – outcomes relationship in acute aortic dissection utilizing National Institute for Cardiovascular Outcomes Research (NICOR) data</title>
+      <link>www.glhickey.com/publication/2015-absract-aortic/</link>
+      <pubDate>Thu, 08 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2015-absract-aortic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

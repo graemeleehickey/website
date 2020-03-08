@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Siepe M | Graeme L. Hickey</title>
+    <link>www.glhickey.com/authors/siepe-m/</link>
+      <atom:link href="www.glhickey.com/authors/siepe-m/index.xml" rel="self" type="application/rss+xml" />
+    <description>Siepe M</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Siepe M</title>
+      <link>www.glhickey.com/authors/siepe-m/</link>
+    </image>
+    
+    <item>
+      <title>Statistical primer: sample size and power calculations — why, when and how?</title>
+      <link>www.glhickey.com/publication/2018-sample-size/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2018-sample-size/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

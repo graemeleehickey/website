@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philipson P | Graeme L. Hickey</title>
+    <link>www.glhickey.com/authors/philipson-p/</link>
+      <atom:link href="www.glhickey.com/authors/philipson-p/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philipson P</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Philipson P</title>
+      <link>www.glhickey.com/authors/philipson-p/</link>
+    </image>
+    
+    <item>
+      <title>joineRML: a joint model and software package for time-to-event and multivariate longitudinal outcomes</title>
+      <link>www.glhickey.com/publication/2018-joinerml/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2018-joinerml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint models of longitudinal and time-to-event data with more than one event time outcome: a review</title>
+      <link>www.glhickey.com/publication/2018-multivariate/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2018-multivariate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of joint models for longitudinal and competing risks data, with application to an epilepsy drug randomized controlled trial</title>
+      <link>www.glhickey.com/publication/2018-comp-risk/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2018-comp-risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint modelling of time-to-event and multivariate longitudinal outcomes: recent developments and issues</title>
+      <link>www.glhickey.com/publication/2016-mvjm-review/</link>
+      <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2016-mvjm-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

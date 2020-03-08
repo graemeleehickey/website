@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Allen K | Graeme L. Hickey</title>
+    <link>www.glhickey.com/authors/allen-k/</link>
+      <atom:link href="www.glhickey.com/authors/allen-k/index.xml" rel="self" type="application/rss+xml" />
+    <description>Allen K</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Wed, 08 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Allen K</title>
+      <link>www.glhickey.com/authors/allen-k/</link>
+    </image>
+    
+    <item>
+      <title>Cardiovascular screening to reduce the burden from cardiovascular disease: microsimulation study to quantify policy options</title>
+      <link>www.glhickey.com/publication/2016-impact-screen/</link>
+      <pubDate>Wed, 08 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2016-impact-screen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OP04 Quantifying the contribution of statins to the decline in population mean cholesterol by socioeconomic group in England 1991–2012: a modelling study</title>
+      <link>www.glhickey.com/publication/2015-absract-impact/</link>
+      <pubDate>Mon, 31 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2015-absract-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the contribution of statins to the decline in population mean cholesterol by socioeconomic group in England 1991-2012</title>
+      <link>www.glhickey.com/publication/2015-impact/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2015-impact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

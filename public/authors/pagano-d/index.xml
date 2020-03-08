@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pagano D | Graeme L. Hickey</title>
+    <link>www.glhickey.com/authors/pagano-d/</link>
+      <atom:link href="www.glhickey.com/authors/pagano-d/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pagano D</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Tue, 01 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Pagano D</title>
+      <link>www.glhickey.com/authors/pagano-d/</link>
+    </image>
+    
+    <item>
+      <title>Clinical registries: governance, management, analysis and applications</title>
+      <link>www.glhickey.com/publication/2013-registry/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2013-registry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic trends in cardiac surgery: why the logistic EuroSCORE is no longer suitable for contemporary cardiac surgery and implications for future risk models</title>
+      <link>www.glhickey.com/publication/2013-dynamic-trends/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2013-dynamic-trends/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

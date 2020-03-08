@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dunning J | Graeme L. Hickey</title>
+    <link>www.glhickey.com/authors/dunning-j/</link>
+      <atom:link href="www.glhickey.com/authors/dunning-j/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dunning J</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Dunning J</title>
+      <link>www.glhickey.com/authors/dunning-j/</link>
+    </image>
+    
+    <item>
+      <title>Statistical primer: sample size and power calculations — why, when and how?</title>
+      <link>www.glhickey.com/publication/2018-sample-size/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2018-sample-size/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National registry data and record linkage to inform postmarket surveillance of prosthetic aortic valve models over 15 years</title>
+      <link>www.glhickey.com/publication/2017-avr-models/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2017-avr-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical and data reporting guidelines for the European Journal of Cardio-Thoracic Surgery and the Interactive CardioVascular and Thoracic Surgery</title>
+      <link>www.glhickey.com/publication/2015-ejcts/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2015-ejcts/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://academic.oup.com/ejcts/article-lookup/doi/10.1093/ejcts/ezw003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Corrigendum&lt;/a&gt;, 2016; 49(3): 1024.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A comparison of outcomes between bovine pericardial and porcine valves in 38,040 patients in England and Wales over 10 years</title>
+      <link>www.glhickey.com/publication/2015-xenotype/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2015-xenotype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic prediction modeling approaches for cardiac surgery</title>
+      <link>www.glhickey.com/publication/2013-dynamic-pred/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2013-dynamic-pred/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

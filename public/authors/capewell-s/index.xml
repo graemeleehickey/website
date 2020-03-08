@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Capewell S | Graeme L. Hickey</title>
+    <link>www.glhickey.com/authors/capewell-s/</link>
+      <atom:link href="www.glhickey.com/authors/capewell-s/index.xml" rel="self" type="application/rss+xml" />
+    <description>Capewell S</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Capewell S</title>
+      <link>www.glhickey.com/authors/capewell-s/</link>
+    </image>
+    
+    <item>
+      <title>Estimated reductions in cardiovascular and gastric cancer disease burden through salt policies: an IMPACT NCD microsimulation study</title>
+      <link>www.glhickey.com/publication/2017-impact-salt/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2017-impact-salt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P46 Potential changes in cardiovascular and gastric cancer disease burdens under different salt policies in England: an IMPACT NCD microsimulation study</title>
+      <link>www.glhickey.com/publication/2016-absract-impact/</link>
+      <pubDate>Tue, 13 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2016-absract-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cardiovascular screening to reduce the burden from cardiovascular disease: microsimulation study to quantify policy options</title>
+      <link>www.glhickey.com/publication/2016-impact-screen/</link>
+      <pubDate>Wed, 08 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2016-impact-screen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OP04 Quantifying the contribution of statins to the decline in population mean cholesterol by socioeconomic group in England 1991–2012: a modelling study</title>
+      <link>www.glhickey.com/publication/2015-absract-impact/</link>
+      <pubDate>Mon, 31 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2015-absract-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the contribution of statins to the decline in population mean cholesterol by socioeconomic group in England 1991-2012</title>
+      <link>www.glhickey.com/publication/2015-impact/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2015-impact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

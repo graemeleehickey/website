@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlson ED | Graeme L. Hickey</title>
+    <link>www.glhickey.com/authors/carlson-ed/</link>
+      <atom:link href="www.glhickey.com/authors/carlson-ed/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carlson ED</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Carlson ED</title>
+      <link>www.glhickey.com/authors/carlson-ed/</link>
+    </image>
+    
+    <item>
+      <title>Cardiopulmonary exercise testing and survival following elective abdominal aortic aneurysm repair</title>
+      <link>www.glhickey.com/publication/2015-vascular/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2015-vascular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of three contemporary risk scores for mortality following elective abdominal aortic aneurysm (AAA) repair</title>
+      <link>www.glhickey.com/publication/2014-aaa/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2014-aaa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

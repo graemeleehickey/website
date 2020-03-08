@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>McAllister K | Graeme L. Hickey</title>
+    <link>www.glhickey.com/authors/mcallister-k/</link>
+      <atom:link href="www.glhickey.com/authors/mcallister-k/index.xml" rel="self" type="application/rss+xml" />
+    <description>McAllister K</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>McAllister K</title>
+      <link>www.glhickey.com/authors/mcallister-k/</link>
+    </image>
+    
+    <item>
+      <title>Discriminating clinical outcome models may drift unacceptably: example of cardiac surgery mortality</title>
+      <link>www.glhickey.com/publication/2012-absract-calibration/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2012-absract-calibration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic trends in cardiac surgery: why the logistic EuroSCORE is no longer suitable for contemporary cardiac surgery and implications for future risk models</title>
+      <link>www.glhickey.com/publication/2013-dynamic-trends/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2013-dynamic-trends/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

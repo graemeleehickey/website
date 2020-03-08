@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poullis M | Graeme L. Hickey</title>
+    <link>www.glhickey.com/authors/poullis-m/</link>
+      <atom:link href="www.glhickey.com/authors/poullis-m/index.xml" rel="self" type="application/rss+xml" />
+    <description>Poullis M</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Poullis M</title>
+      <link>www.glhickey.com/authors/poullis-m/</link>
+    </image>
+    
+    <item>
+      <title>A comparison of survival between on-pump and off-pump left internal mammary artery bypass graft surgery for isolated left anterior descending coronary artery disease: an analysis of the UK National Adult Cardiac Surgery Audit Registry</title>
+      <link>www.glhickey.com/publication/2016-lad/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2016-lad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic prediction modeling approaches for cardiac surgery</title>
+      <link>www.glhickey.com/publication/2013-dynamic-pred/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2013-dynamic-pred/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

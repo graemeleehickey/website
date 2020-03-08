@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dimarakis I | Graeme L. Hickey</title>
+    <link>www.glhickey.com/authors/dimarakis-i/</link>
+      <atom:link href="www.glhickey.com/authors/dimarakis-i/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dimarakis I</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Graeme L. Hickey</copyright><lastBuildDate>Sat, 01 Mar 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Dimarakis I</title>
+      <link>www.glhickey.com/authors/dimarakis-i/</link>
+    </image>
+    
+    <item>
+      <title>Mitral valve prosthesis choice for patients aged 65 and over in the UK. Are the guidelines being followed and does it matter?</title>
+      <link>www.glhickey.com/publication/2014-mvr/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2014-mvr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical registries: governance, management, analysis and applications</title>
+      <link>www.glhickey.com/publication/2013-registry/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2013-registry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance of the EuroSCORE models in emergency cardiac surgery</title>
+      <link>www.glhickey.com/publication/2013-emergency/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>www.glhickey.com/publication/2013-emergency/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
