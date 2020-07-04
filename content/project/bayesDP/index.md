@@ -1,6 +1,6 @@
 ---
 title: bayesDP
-summary: provides tools and functions for data augmentation using the Bayesian discount prior function for one arm and two arm clinical trials.
+summary: An R package for data augmentation using the Bayesian discount prior method for one arm and two arm clinical trials.
 tags:
 - R
 - Bayesian

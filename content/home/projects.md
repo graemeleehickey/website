@@ -33,6 +33,14 @@ subtitle = ""
     name = "Joint Modelling"
     tag = "Joint Modelling"
 
+  [[content.filter_button]]
+    name = "Clinical Trials"
+    tag = "Clinical Trials"
+
+  [[content.filter_button]]
+    name = "Bayesian"
+    tag = "Bayesian"
+    
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"

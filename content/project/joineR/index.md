@@ -4,6 +4,7 @@ summary: An R package to fit joint models to a single repeated measure and a tim
 tags:
 - R
 - Joint Modelling
+- Clinical Trials
 date: "2020-03-08T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
