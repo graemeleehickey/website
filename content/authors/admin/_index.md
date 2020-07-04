@@ -22,14 +22,20 @@ bio: My research interests include biostatistics, R software, and cardiovascular
 
 interests:
   - Biostatistics
-  - Joint Modelling
-  - R Software
+  - Joint modelling
+  - R software
   - Bayesian statistics
-  - Cardiovascular Surgery Outcomes
-  - Risk Prediction Modelling
+  - Cardiovascular surgery outcomes
+  - Risk prediction modelling
+  - Adaptive trial design
+  - Propensity score methods
+  - Composite endpoints
 
 education:
   courses:
+  - course: Certificate in Professional Studies (Learning & Teaching in Higher Education)
+    institution: University of Liverpool
+    year: 2017
   - course: Chartered Statistician
     institution: Royal Statistical Society
     year: 2016
