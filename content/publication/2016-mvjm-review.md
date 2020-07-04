@@ -9,11 +9,6 @@ publication = "*BMC Medical Research Methodology*"
 publication_short = "*BMC Med Res Methodol*"
 selected = true
 title = "Joint modelling of time-to-event and multivariate longitudinal outcomes: recent developments and issues"
-url_code = ""
-url_dataset = ""
 url_pdf = "http://bmcmedresmethodol.biomedcentral.com/track/pdf/10.1186/s12874-016-0212-5?site=bmcmedresmethodol.biomedcentral.com"
-url_project = "project/joineR-M/"
-url_slides = ""
-url_video = ""
 
 +++

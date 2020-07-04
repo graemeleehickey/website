@@ -9,11 +9,6 @@ publication = "*Heart*"
 publication_short = "*Heart*"
 selected = true
 title = "How does EuroSCORE II perform in UK cardiac surgery; an analysis of 23,740 patients from the Society for Cardiothoracic Surgery of GB and Ireland National database"
-url_code = ""
-url_dataset = ""
 url_pdf = "http://heart.bmj.com/content/98/21/1568"
-url_project = "project/cardiac/"
-url_slides = ""
-url_video = ""
 
 +++

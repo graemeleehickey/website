@@ -9,11 +9,6 @@ publication = "*JAMA Internal Medicine*"
 publication_short = "*JAMA Intern Med*"
 selected = true
 title = "National registry data and record linkage to inform postmarket surveillance of prosthetic aortic valve models over 15 years"
-url_code = ""
-url_dataset = ""
 url_pdf = "http://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2580723"
-url_project = "project/cardiac/"
-url_slides = ""
-url_video = ""
 
 +++

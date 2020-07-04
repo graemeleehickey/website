@@ -9,11 +9,6 @@ publication = "*Interactive CardioVascular and Thoracic Surgery*"
 publication_short = "*ICVTS*"
 selected = true
 title = "Statistical primer: checking model assumptions with regression diagnostics"
-url_code = ""
-url_dataset = ""
 url_pdf = "https://doi.org/10.1093/icvts/ivy207"
-url_project = "project/education/"
-url_slides = ""
-url_video = ""
 
 +++

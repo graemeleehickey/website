@@ -10,10 +10,6 @@ publication_short = "*J Thorac Cardiovasc Surg*"
 selected = true
 title = "External model validation of binary clinical risk prediction models in cardiovascular and thoracic surgery"
 url_code = "http://www.jtcvsonline.org/article/S0022-5223(16)30075-7/pdf"
-url_dataset = ""
 url_pdf = "http://www.jtcvsonline.org/article/S0022-5223(16)30075-7/pdf"
-url_project = "project/education/"
-url_slides = ""
-url_video = ""
 
 +++

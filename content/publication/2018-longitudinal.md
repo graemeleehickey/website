@@ -9,11 +9,7 @@ publication = "*Interactive CardioVascular and Thoracic Surgery*"
 publication_short = "*ICVTS*"
 selected = true
 title = "Statistical primer: performing repeated-measures analysis"
-url_code = ""
 url_dataset = "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/icvts/PAP/10.1093_icvts_ivy009/1/ivy009_supp.pdf?Expires=1519693727&Signature=evKSHBTBRA3JaTcGfO8KF55RanTVGYNDf8MD5aPQ63QuQ~nEGlyMj39jy6C8yDEBoTNv7VrPalQjZdzz3~KjBPOYvqf6AMBQHZIaOy20k5uyu7LXzV1uuF2MPFiWWpbJfbAFA-~fdwDe~SYf7fJc~O0kclcsnm~OuE7qWnRAccoMxVT2fNKp~BCxV~u97zweQQx-CUbcxWUs404YsUCtotR2WHlayc1buj2sAeKAeXl~SIR5HC77VPo~hYIyOkAnvJhrEZkIJ9qCbIc4peoKM8TwLr8xgyFjMCZs7B1Jq-bu-Wr~B80N7sMwFKaPvHQtgcj4KbuJuvdiSAUUkRxbzw__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q"
 url_pdf = "https://doi.org/10.1093/icvts/ivy009"
-url_project = "project/education/"
-url_slides = ""
-url_video = ""
 
 +++

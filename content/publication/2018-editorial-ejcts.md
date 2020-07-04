@@ -9,11 +9,6 @@ publication = "*European Journal of Cardio-Thoracic Surgery*"
 publication_short = "*EJCTS*"
 selected = false
 title = "Finding the forest through the trees in statistics: let the Statistical Primers in EJCTS/ICVTS guide you"
-url_code = ""
-url_dataset = ""
 url_pdf = "https://doi.org/10.1093/ejcts/ezy053"
-url_project = "project/education/"
-url_slides = ""
-url_video = ""
 
 +++

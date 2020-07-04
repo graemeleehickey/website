@@ -9,11 +9,6 @@ publication = "*Interactive CardioVascular and Thoracic Surgery*"
 publication_short = "*ICVTS*"
 selected = true
 title = "Finding the forest through the trees in statistics: let the Statistical Primers in EJCTS/ICVTS guide you"
-url_code = ""
-url_dataset = ""
 url_pdf = "https://doi.org/10.1093/icvts/ivy064"
-url_project = "project/education/"
-url_slides = ""
-url_video = ""
 
 +++

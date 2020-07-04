@@ -12,8 +12,5 @@ title = "A comparison of joint models for longitudinal and competing risks data,
 url_code = "https://github.com/graemeleehickey/comprisk"
 url_dataset = "https://github.com/graemeleehickey/comprisk"
 url_pdf = "http://onlinelibrary.wiley.com/doi/10.1111/rssa.12348/epdf"
-url_project = "project/joineR-M/"
-url_slides = ""
-url_video = ""
 
 +++
