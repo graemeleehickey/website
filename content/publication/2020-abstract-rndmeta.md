@@ -1,0 +1,13 @@
++++
+abstract = "Recent prospective randomized clinical trials have demonstrated blood pressure lowering following renal denervation (RDN) with radiofrequency (RF) ablation systems and minimal adverse events in relatively small populations with short follow up duration. The current analysis estimates the rate of renal artery adverse events based on a comprehensive review of published reports. An online database search was performed to identify trials, registries and case reports that employed either the SYMPLICITY Flex or Spyral RF denervation systems (Medtronic, Santa Rosa, CA). Updated reviews of the SYMPLICITY HTN-3 trial and the Global SYMPLICITY Registry were also included. Renal artery stenoses classified as “significant”, greater than 50%, resulted in stent implant or if not specified were counted. The pooled incidence rate of stent implantation was determined by fixed-effects meta-analysis of the study-level incidence rates. Review of 45 published RDN trials reporting on procedural safety with 10,130 patient-years of follow up identified 0.44% of patients (25 of 5,657) with reported renal artery stenosis or dissection and 0.39% of patients (22 of 5,657) with required renal artery stenting. Meta-analysis of all reports indicated an 0.20% pooled annual incidence rate of stent implantation (95% CI: 0.11 to 0.29 % per patient-year). This result was consistent with a fixed effects Poisson regression model (0.22%; 95% CI: 0.14 to 0.32%). An additional 10 case reports including 11 patients with renal artery stenosis resulting in at least one stent implant were identified, with most cases diagnosed after recurrent hypertension, occasionally with concomitant symptoms. Median time from RDN procedure to all renal artery interventions, including both case reports and clinical trials, was 5.5 months (range: 0 to 33 months). A separate review of 14 clinical trials reporting on prospective follow up high resolution imaging of main renal arteries or branches using either MRI, CT or angiography following RDN found a new significant stenosis rate of 0.20% (one event out of 511 patients). Renal artery stenosis and re-intervention following renal denervation with the most commonly applied RF renal denervation system are rare."
+authors = ["Townsend RR", "Walton A", "Hettrick DA", "Hickey GL", "Sharp AS"]
+date = "2019-09-04"
+math = true
+publication_types = ["1"]
+publication = "*Hypertension*"
+publication_short = "*Hypertension*"
+selected = false
+title = "Abstract P2051: Incidence of renal artery damage following percutaneous renal denervation with radio frequency renal artery ablation systems"
+url_pdf = "https://www.ahajournals.org/doi/10.1161/hyp.74.suppl_1.P2051"
+
++++
