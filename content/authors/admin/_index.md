@@ -74,7 +74,7 @@ social:
   link: https://www.researchgate.net/profile/Graeme_Hickey/
 - icon: academia
   icon_pack: ai
-  link: https://medtronic.academia.edu/graemeleehickey/
+  link: https://independentresearcher.academia.edu/GraemeHickey/
 - icon: mendeley
   icon_pack: ai
   link: https://www.mendeley.com/profiles/graeme-hickey/
