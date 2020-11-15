@@ -1,7 +1,6 @@
 +++
 authors = ["Grant SW", "Hickey GL", "Grayson AD", "Mitchell DC", "McCollum CN"]
 date = "2013-03-12"
-image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "*The British Journal of Surgery*"

@@ -6,7 +6,7 @@ math = true
 publication_types = ["2"]
 publication = "*The International Journal of Biostatistics*"
 publication_short = "*Int J Biostat*"
-selected = true
+featured = true
 title = "Joint models of longitudinal and time-to-event data with more than one event time outcome: a review"
 url_pdf = "https://doi.org/10.1515/ijb-2017-0047"
 

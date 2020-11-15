@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Statistics Director
+role: Director, Statistics & Clinical Science
 
 # Organizations/Affiliations
 organizations:
-- name: Medtronic Ltd.
-  url: "www.medtronic.com/"
+- name: BD Ltd.
+  url: "www.bd.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include biostatistics, R software, and cardiovascular outcomes.
+bio:
 
 interests:
   - Biostatistics
@@ -97,7 +97,7 @@ email: ""
 # - Visitors
 ---
 
-Graeme is the Statistics Director at [Medtronic](http://www.medtronic.com), Coronary & Structural Heart (CSH). He was also former Assistant Editor for the [European Journal of Cardio-Thoracic Surgery](https://academic.oup.com/ejcts) and [Interactive CardioVascular and Thoracic Surgery](https://academic.oup.com/icvts).
+Graeme is the Director of Statistics & Clinical Science at [Becton, Dickinson & Company (BD)](http://www.bd.com). He was also former Assistant Editor for the [European Journal of Cardio-Thoracic Surgery](https://academic.oup.com/ejcts) and [Interactive CardioVascular and Thoracic Surgery](https://academic.oup.com/icvts).
 
 After completing his PhD, he held several academic roles. Graeme has extensive experience on both methodological and applied statistics. Methodological research has focused on hierarchical Bayesian modelling, risk prediction modelling, and joint modelling of longitudinal and time-to-event data. Applications have spanned ecotoxicology, cardiovascular surgery, epidemiology, health e-research, public health, and clinical trials.
 

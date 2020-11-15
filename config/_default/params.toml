@@ -86,7 +86,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Medtronic Ltd., Building 9, Hatters Lane", city = "Watford", region = "Herts", postcode = "WD18 8WW", country = "United Kingdom", country_code = "GB"}
+address = {street = "BD Ltd., 1030 Eskdale Road", city = "Winnersh", region = "Wokingham", postcode = "RG41 5TS", country = "United Kingdom", country_code = "GB"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
