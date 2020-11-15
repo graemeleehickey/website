@@ -90,7 +90,7 @@ address = {street = "BD Ltd., 1030 Eskdale Road", city = "Winnersh", region = "W
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.645203", longitude = "-0.431403"}
+coordinates = {latitude = "51.439482", longitude = "-0.889679"}
 
 # Directions for visitors to locate you.
 directions = ""
