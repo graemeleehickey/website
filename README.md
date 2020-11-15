@@ -2,4 +2,4 @@
 
 # blog
 
-My [personal homepage](http://www.glhickey.com) is built using the R package [blogdown](https://github.com/rstudio/blogdown) and [Hugo](https://gohugo.io) with the [Academic theme](http://themes.gohugo.io/academic/). It is hosted by [Netlify](http://www.netlify.com).
+My [personal homepage](http://www.glhickey.com) is built using the R package [blogdown](https://github.com/rstudio/blogdown) and [Hugo](https://gohugo.io) v0.78.2 with the [Academic theme](http://themes.gohugo.io/academic/). It is hosted by [Netlify](http://www.netlify.com).
