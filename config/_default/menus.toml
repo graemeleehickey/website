@@ -5,12 +5,12 @@
 
 [[main]]
   name = "About"
-  url = "#hero"
+  url = "#about"
   weight = 10
 
 [[main]]
   name = "Experience"
-  url = "#Experience"
+  url = "#experience"
   weight = 20
   
 [[main]]
@@ -20,7 +20,7 @@
   
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
   weight = 40
 
 [[main]]
